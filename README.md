@@ -49,3 +49,6 @@
 
 ##### Page 13
 ![Page 1](D13.jpg)
+
+##### Page 14
+![Page 1](D14.jpg)
